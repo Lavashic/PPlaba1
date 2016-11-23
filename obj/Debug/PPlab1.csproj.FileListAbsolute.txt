@@ -1,0 +1,6 @@
+D:\My Documents\Visual Studio 2013\Projects\PPlab1\PPlab1\bin\Debug\PPlab1.exe.config
+D:\My Documents\Visual Studio 2013\Projects\PPlab1\PPlab1\bin\Debug\PPlab1.exe
+D:\My Documents\Visual Studio 2013\Projects\PPlab1\PPlab1\bin\Debug\PPlab1.pdb
+D:\My Documents\Visual Studio 2013\Projects\PPlab1\PPlab1\obj\Debug\PPlab1.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2013\Projects\PPlab1\PPlab1\obj\Debug\PPlab1.exe
+D:\My Documents\Visual Studio 2013\Projects\PPlab1\PPlab1\obj\Debug\PPlab1.pdb
